@@ -12,5 +12,3 @@ def fib(n):
         return b
     else:
         return a
-    
-print(fib(10))
